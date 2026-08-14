@@ -1,7 +1,5 @@
-# AI  SIDARS
-
-## Adaptive AI-Powered Security Incident Detection & Automated Response System
-An intelligent, real-time security platform designed to detect, analyze, correlate, prioritize, and respond to evolving cybersecurity threats.
+# AI SIDARS: AI-Powered Security Incident Detection & Automated Response System
+#### An intelligent, real-time security platform designed to detect, analyze, correlate, prioritize, and respond to evolving cybersecurity threats.
 
 ## Team Members
 
@@ -12,6 +10,7 @@ An intelligent, real-time security platform designed to detect, analyze, correla
 | **Aryan Sonak** | 2420090049 |
 | **Kaushik Donthula** | 2420030422 |
 
+  #### Guide: G. Lavanya
 
 ## Abstract
 
